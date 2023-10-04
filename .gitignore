@@ -1,0 +1,23 @@
+# Python-specific files
+
+__pycache__/
+
+ 
+
+# Jupyter notebooks
+
+.ipynb_checkpoints/
+
+ 
+
+# Virtual environment
+
+venv/
+
+project_env/
+
+ 
+
+# Secrets
+
+.env

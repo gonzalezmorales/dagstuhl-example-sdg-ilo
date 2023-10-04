@@ -1,0 +1,11 @@
+codelist,codelist_name,codelist_description,code_id,code_name,code_description,code_parent
+ILO:CL_QTL(1.0),Classification: QTL,,QTL_DECILE_01,Decile 1,,
+ILO:CL_QTL(1.0),Classification: QTL,,QTL_DECILE_02,Decile 2,,
+ILO:CL_QTL(1.0),Classification: QTL,,QTL_DECILE_03,Decile 3,,
+ILO:CL_QTL(1.0),Classification: QTL,,QTL_DECILE_04,Decile 4,,
+ILO:CL_QTL(1.0),Classification: QTL,,QTL_DECILE_05,Decile 5,,
+ILO:CL_QTL(1.0),Classification: QTL,,QTL_DECILE_06,Decile 6,,
+ILO:CL_QTL(1.0),Classification: QTL,,QTL_DECILE_07,Decile 7,,
+ILO:CL_QTL(1.0),Classification: QTL,,QTL_DECILE_08,Decile 8,,
+ILO:CL_QTL(1.0),Classification: QTL,,QTL_DECILE_09,Decile 9,,
+ILO:CL_QTL(1.0),Classification: QTL,,QTL_DECILE_10,Decile 10,,
